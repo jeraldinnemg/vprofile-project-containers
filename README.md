@@ -5,44 +5,43 @@
 One of the benefits of working at EY is Udemy for Business. I decided to further enhance my DevOps skills by enrolling in the "DevOps Projects | 20 Real-Time DevOps Projects" course, and I'm sharing my journey for educational purposes.
 
 ### About:
-✅ Multi Tier Application Stack.
-✅ Running on VM’s.
-✅ Regular deployment.
-✅Continuous Changes.
+- ✅ Multi Tier Application Stack.
+- ✅ Running on VM’s.
+- ✅ Regular deployment.
+- ✅Continuous Changes.
 
 ### Problem: 
-❌ High CapEx and OpEx.
-❌ Human Errors in deployment.
-❌ Not compatible with microservice architecture.
-❌Resource wastage.
-❌ Not portable, environment not in syncs.
+- ❌ High CapEx and OpEx.
+- ❌ Human Errors in deployment.
+- ❌ Not compatible with microservice architecture.
+- ❌Resource wastage.
+- ❌ Not portable, environment not in syncs.
 
 ### Solution:
-🐳 Docker Containers.
-🐳Consume low Resource.
-🐳 Suit very well for microservice design.
-🐳 Deployment via images.
-🐳 Same container images across env.
-🐳 Reusable and repeatable.
+- 🐳 Docker Containers.
+- 🐳Consume low Resource.
+- 🐳 Suit very well for microservice design.
+- 🐳 Deployment via images.
+- 🐳 Same container images across env.
+- 🐳 Reusable and repeatable.
 
 ### Tools:
-👩🏽‍💻 Docker (Container Runtime / Environment).
-👩🏽‍💻 Java Stack (Vprofile Application services).
+- 👩🏽‍💻 Docker (Container Runtime / Environment).
+- 👩🏽‍💻 Java Stack (Vprofile Application services).
 
 ### Steps:
-⏭️ Find right base image from dockerhub.
-⏭️ Write dockerfile to customize images.
-⏭️ Write docker compose.yml file to run multi containers.
-⏭️ Test it and host images on dockerhub.
-
+- ⏭️ Find right base image from dockerhub.
+- ⏭️ Write dockerfile to customize images.
+- ⏭️ Write docker compose.yml file to run multi containers.
+- ⏭️ Test it and host images on dockerhub.
 
 Summary Docker commands used: 
-🐳 docker compose build.
-🐳docker-compose up -d
-🐳 docker images
-🐳 docker compose ps
-🐳 docker compose down
-🐳 docker system prune -a 
+- 🐳 docker compose build.
+- 🐳 docker-compose up -d
+- 🐳 docker images
+- 🐳 docker compose ps
+- 🐳 docker compose down
+- 🐳 docker system prune -a 
 
 ## Docker workflow diagram
 ![DWD](images/docker-workflow.drawio.drawio.png)
