@@ -56,7 +56,7 @@ Summary Docker commands used:
 
 ### Repository
 
-GitHub Repository: [vprofile-project-3](https://github.com/jeraldinnemg/vprofile-project-containers)
+GitHub Repository: [vprofile-project-container](https://github.com/jeraldinnemg/vprofile-project-containers)
 
 Udemy Course: [DevOps Projects | 20 Real-Time DevOps Projects](https://www.udemy.com/course/devopsprojects/)
 
