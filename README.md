@@ -44,7 +44,7 @@ Summary Docker commands used:
 - 🐳 docker system prune -a 
 
 ## Docker workflow diagram
-![DWD](images/docker-workflow.drawio.drawio.png)
+![DWD](images/docker-workflow.drawio.png)
 
 ## Automated Provisioning of the infrastructure evidence.
 ![Web app login](images/vprofilelogin.png)
